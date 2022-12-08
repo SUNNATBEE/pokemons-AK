@@ -21,6 +21,7 @@ body{
     /* font-family: var(); */
     /* font-weight: var(); */
     background-color: #ffff;
+    overflow-x: hidden;
 }
 .site-main{
     flex-grow: 1;
